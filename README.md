@@ -1,5 +1,10 @@
 # group1_factor_backtesting
 
+#Data resource
+
+链接：https://pan.baidu.com/s/1KVFA594AcysZNkpU3rIomw?pwd=hgpa 
+提取码：hgpa
+
 Goal:  
 Build a single-factor stock selection strategy.
 
